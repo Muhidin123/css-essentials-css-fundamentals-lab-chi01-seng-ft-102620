@@ -40,3 +40,6 @@ nav a {
   background: white;
   opacity: 0.5
 }
+#featured-property:hover {
+  opacity: 1.0
+}
