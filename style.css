@@ -1,5 +1,6 @@
 body {
   background: black;
+  opacity: 70;
 }
 
 h1 {
@@ -25,7 +26,6 @@ nav a {
     float: left;
     width: 25%;
     background-color: yellow;
-    color: white
 }
 
 #featured-property p {
