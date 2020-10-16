@@ -1,7 +1,7 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: 
 }
 
 
@@ -14,23 +14,23 @@ img {
   margin: 0 auto;
 }
 
-nav{
+nav, figcaption {
   text-align: center;
 }
 
-nav {
+nav, a {
   padding: 10px;
   background-color: yellow;
   margin: 0 auto;
 }
 
-#featured-property{
+#featured-property p {
   width: 800px;
   text-align: center;
   margin: 0 auto;
 }
 
-#details{
+#details div {
     float: left;
     background-color: yellow;
     width: 25%;
