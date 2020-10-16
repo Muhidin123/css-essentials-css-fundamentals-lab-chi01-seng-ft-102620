@@ -14,23 +14,23 @@ img {
   margin: 0 auto;
 }
 
-nav, figcaption {
+nav,{
   text-align: center;
 }
 
-nav a {
+nav {
   padding: 10px;
   background-color: yellow;
   margin: 0 auto;
 }
 
-#featured-property p {
+#featured-property{
   width: 800px;
   text-align: center;
   margin: 0 auto;
 }
 
-#details div {
+#details{
     float: left;
     background-color: yellow;
     width: 25%;
