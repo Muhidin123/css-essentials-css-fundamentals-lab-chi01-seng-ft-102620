@@ -5,9 +5,10 @@ text-align: center;
 img {
   display: block;
   margin: 0 auto;
+  opacity: 0.5
 }
 img:hover {
-  opacity: 0.5
+  opacity: 1.0
 }
 
 nav, figcaption {
