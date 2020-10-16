@@ -7,7 +7,7 @@ img {
   margin: 0 auto;
 }
 
-nav, figcaption {
+#featured-property figcaption {
   text-align: center;
 }
 
